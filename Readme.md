@@ -74,6 +74,7 @@ Ademas de los paquetes de sistema operativo, codecs, etc., he instalado los sigu
 
 ## Configuraciones extras
 - [Qtile](https://github.com/ADN227/aKLQtileCfg)
+- [bspwm](https://github.com/ADN227/aKLbspwm)
 - [zsh](https://github.com/ADN227/aKLzshCfg)
 - [neofetch](https://github.com/ADN227/aKLneofetchCfg)
 - [ranger](https://github.com/ADN227/aKLrangerCfg)
