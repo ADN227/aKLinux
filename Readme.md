@@ -2,7 +2,7 @@
 
 [![alacritty.jpg](https://i.postimg.cc/qB2YtGBK/alacritty.jpg)](https://postimg.cc/vDHXkfV8)
 
-Este archivo contiene los paquetes y configuraciones que uso en mi computador. Ademas de los pasos que he hecho para instalar el sistema operativo que actualmente utilizo.
+Este archivo contiene los paquetes y configuraciones que uso en mi computador. 
 
 ## Paquetes que uso
 Para la instalacion del sistema operativo he seguido la guia de [Arch Linux](https://wiki.archlinux.org/title/Installation_guide) utilizando los siguientes paquetes:
