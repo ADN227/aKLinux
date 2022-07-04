@@ -89,7 +89,7 @@ Para la instalacion del sistema operativo he seguido la guia de [Arch Linux](htt
 - [teams-for-linux](https://aur.archlinux.org/packages/teams-for-linux)
 - [zathura](https://wiki.archlinux.org/title/Zathura)
 
-**Tarbajo remoto**:
+**Trabajo remoto**:
 - [rdesktop](https://wiki.archlinux.org/title/Rdesktop)
 - [remmina](https://wiki.archlinux.org/title/Remmina)
 
