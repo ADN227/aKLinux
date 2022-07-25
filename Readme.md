@@ -1,6 +1,6 @@
 # Configuraciones en Linux
 
-[![alacritty.jpg](https://i.postimg.cc/qB2YtGBK/alacritty.jpg)](https://postimg.cc/vDHXkfV8)
+[![K-076.jpg](https://i.postimg.cc/Njn2YXyz/K-076.jpg)](https://postimg.cc/87hzmjmR)
 
 Este archivo contiene los paquetes y configuraciones que uso en mi computador. 
 
@@ -121,6 +121,8 @@ Para la instalacion del sistema operativo he seguido la guia de [Arch Linux](htt
 - [Qtile](https://github.com/adnksharp/LQtileCfg)
 - [rofi](https://github.com/adnksharp/LrofiCfg)
 - [bspwm](https://github.com/adnksharp/Lbspwm)
+
+## [Fondo](https://postimg.cc/QV2DYjt0)
 
 ##### Mi primer configuración
 - [arch-old-config](https://github.com/adnksharp/LarchOLD)
